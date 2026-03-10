@@ -1,11 +1,11 @@
-💌 Greeting Card App
+# 💌 Greeting Card App
 
 The Greeting Card App is a simple Android application built using Kotlin and Jetpack Compose.
 It displays a digital greeting card with a message and visual design, demonstrating how to build user interfaces using modern Android development practices.
 
 This project focuses on learning Jetpack Compose UI components, layout design, and text styling to create a simple greeting card interface.
 
-🚀 Features
+# 🚀 Features
 
 💌 Greeting Message Display
 Shows a greeting message on the screen.
@@ -19,7 +19,7 @@ Combines background images with greeting text.
 📱 Modern Android UI
 Built using the Jetpack Compose declarative UI framework.
 
-🛠 Tech Stack
+# 🛠 Tech Stack
 📱 Android Development
 
 Kotlin
@@ -28,7 +28,7 @@ Kotlin
 
 Jetpack Compose
 
-⚙️ Development Tools
+# ⚙️ Development Tools
 
 Android Studio
 
